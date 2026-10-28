@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="./assets/banner_julieta.png" alt="Julieta Angulo | Junior Data Analyst" width="100%">
-</p>
+<img src="./Assets/banner_julieta.png" alt="Julieta Angulo | Junior Data Analyst" width="100%">
 
 <p align="center">
   <a href="https://www.linkedin.com/in/julieta-angulo-g"><strong>LinkedIn</strong></a>
